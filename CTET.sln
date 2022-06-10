@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTET", "CTET\CTET.csproj", "{E7555B72-394F-480F-BFC8-20DC56736EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7555B72-394F-480F-BFC8-20DC56736EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7555B72-394F-480F-BFC8-20DC56736EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7555B72-394F-480F-BFC8-20DC56736EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7555B72-394F-480F-BFC8-20DC56736EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC0F043-B87E-4852-B67E-2E604E896025}
+	EndGlobalSection
+EndGlobal
